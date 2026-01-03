@@ -11,7 +11,7 @@ This repository will contain **all my DSA code**, including:
 This is a long-term learning journey focused on:
 - Strong problem-solving skills  
 - Clear understanding of fundamentals  
-- Writing clean and efficient Java code  
+- Writing clean and efficient Java code
 
 Every line of code I write while learning DSA will live here.
 
