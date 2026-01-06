@@ -2,7 +2,7 @@
 
 Starting **January 01, 2026**, I commit to learning **Data Structures and Algorithms** using **Java** and mastering them step by step.
 
-This repository will contain **all my DSA code**, including:
+This repository will contain **all my DSA code**, including: 
 - Practice problems
 - Concept implementations
 - Optimized solutions
