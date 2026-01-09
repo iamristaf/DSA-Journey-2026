@@ -15,6 +15,6 @@ This is a long-term learning journey focused on:
 Every line of code I write while learning DSA will live here.
 
 **Consistency > Speed.  
-Progress > Perfection.**
+Progress > Perfection.** 
  
 — Nishant
