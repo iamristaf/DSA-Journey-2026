@@ -7,7 +7,7 @@ This repository will contain **all my DSA code**, including:
 - Concept implementations
 - Optimized solutions
 - Continuous improvements as I learn    
-This is a long-term learning journey focused on:
+This is a long-term learning journey focused on: 
 - Strong problem-solving skills  
 - Clear understanding of fundamentals  
 - Writing clean and efficient Java code 
